@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+    <producto>
+        <id>1</id>
+        <nombre>producto prueba</nombre>
+        <descripcion>prueba número 1</descripcion>
+        <precio>15.0</precio>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>producto 2</nombre>
+        <descripcion>prueba</descripcion>
+        <precio>20.0</precio>
+    </producto>
+</productos>
